@@ -1,8 +1,15 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Lista de Tarefas
 
-Currently, two official plugins are available:
+O projeto foi desenvolvido com o intuito de aprender REACT e seus componentes e estados.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+## Deploy
+
+Acesse a URL abaixo e faça bom uso! :D
+
+ToDoList: https://to-do-list-react-vert.vercel.app/
+
+
